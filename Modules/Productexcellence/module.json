@@ -1,0 +1,13 @@
+{
+    "name": "Productexcellence",
+    "alias": "productexcellence",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Productexcellence\\Providers\\ProductexcellenceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Homesolution",
+    "alias": "homesolution",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Homesolution\\Providers\\HomesolutionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

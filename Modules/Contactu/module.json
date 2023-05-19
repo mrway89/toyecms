@@ -1,0 +1,13 @@
+{
+    "name": "Contactu",
+    "alias": "contactu",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Contactu\\Providers\\ContactuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,24 @@
+{
+    "name": "aqualife/bgimage",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "aqualife-user",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Bgimage\\": ""
+        }
+    }
+}

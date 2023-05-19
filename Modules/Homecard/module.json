@@ -1,0 +1,13 @@
+{
+    "name": "Homecard",
+    "alias": "homecard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Homecard\\Providers\\HomecardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

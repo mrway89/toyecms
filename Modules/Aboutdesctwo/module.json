@@ -1,0 +1,13 @@
+{
+    "name": "Aboutdesctwo",
+    "alias": "aboutdesctwo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Aboutdesctwo\\Providers\\AboutdesctwoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

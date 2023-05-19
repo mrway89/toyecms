@@ -1,0 +1,13 @@
+{
+    "name": "Aboutdescone",
+    "alias": "aboutdescone",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Aboutdescone\\Providers\\AboutdesconeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

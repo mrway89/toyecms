@@ -1,0 +1,13 @@
+{
+    "name": "Imageabout",
+    "alias": "imageabout",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Imageabout\\Providers\\ImageaboutServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

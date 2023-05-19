@@ -1,0 +1,13 @@
+{
+    "name": "Daftaremail",
+    "alias": "daftaremail",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Daftaremail\\Providers\\DaftaremailServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

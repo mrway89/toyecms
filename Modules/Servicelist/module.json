@@ -1,0 +1,13 @@
+{
+    "name": "Servicelist",
+    "alias": "servicelist",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Servicelist\\Providers\\ServicelistServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

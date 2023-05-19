@@ -1,0 +1,1 @@
+<img src="{{asset('img/1-aqvo-logo.png')}}" style="height: 50px;">

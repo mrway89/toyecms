@@ -1,0 +1,13 @@
+{
+    "name": "Headerabout",
+    "alias": "headerabout",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Headerabout\\Providers\\HeaderaboutServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

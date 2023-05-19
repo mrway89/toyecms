@@ -1,0 +1,13 @@
+{
+    "name": "Toplink",
+    "alias": "toplink",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Toplink\\Providers\\ToplinkServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

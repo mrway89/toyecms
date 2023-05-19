@@ -1,0 +1,13 @@
+{
+    "name": "Whoarewe",
+    "alias": "whoarewe",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Whoarewe\\Providers\\WhoareweServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

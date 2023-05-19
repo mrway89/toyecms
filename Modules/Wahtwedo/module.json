@@ -1,0 +1,13 @@
+{
+    "name": "Wahtwedo",
+    "alias": "wahtwedo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Wahtwedo\\Providers\\WahtwedoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

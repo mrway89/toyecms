@@ -1,0 +1,13 @@
+{
+    "name": "Bgimage",
+    "alias": "bgimage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bgimage\\Providers\\BgimageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

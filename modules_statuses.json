@@ -1,0 +1,23 @@
+{
+    "Article": true,
+    "Tag": true,
+    "Comment": true,
+    "Product": true,
+    "CategoriesProduct": true,
+    "Bgiamge": true,
+    "Bgimage": true,
+    "Homecard": true,
+    "Homesolution": true,
+    "Whoarewe": true,
+    "Productexcellence": true,
+    "Headerabout": true,
+    "Imageabout": true,
+    "Aboutdescone": true,
+    "Aboutdesctwo": true,
+    "Aboutdescthree": true,
+    "Wahtwedo": true,
+    "Servicelist": true,
+    "Toplink": true,
+    "Contactu": true,
+    "Daftaremail": true
+}
